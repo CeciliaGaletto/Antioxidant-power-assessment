@@ -1,0 +1,1 @@
+This project was developed using a database composed of spontaneous and fictional data, ensuring its suitability for public visualization. The primary purpose is to practice and refine my data analysis skills. Tools used: Excel, Tableau
